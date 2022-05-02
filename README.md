@@ -11,7 +11,7 @@
 ##
 ![Evertoch GitHub stats](https://github-readme-stats.vercel.app/api?username=evertoch&count_private=true&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertoch&layout=compact)](https://github.com/evertoch/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertoch&layout=default)](https://github.com/evertoch/github-readme-stats)
 <br/>
 
 
