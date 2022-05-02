@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/evertoch)
 
 
-<i> "O primeiro dever da inteligência é desconfiar dela mesma." </i>- Albert Einstein
+<i> "O primeiro dever da inteligência é desconfiar dela mesma." </i> - Albert Einstein
 
 
 ##
