@@ -9,7 +9,7 @@
 
 
 ##
-![Everto GitHub stats](https://github-readme-stats.vercel.app/api?username=evertoch&show_icons=true&theme=dark&count_private=true)
+![Evertoch GitHub stats](https://github-readme-stats.vercel.app/api?username=evertoch&count_private=false&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evertoch&layout=compact)](https://github.com/evertoch/github-readme-stats)
 <br/>
